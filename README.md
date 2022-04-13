@@ -1,6 +1,6 @@
 ## About
 
-I'm a Site Reliability Engineer who loves to work with Node.js. In particular, I'm interested in web applications security and MongoDB, so many of my GitHub contributions are in this area. If you'd like me to take a look at or work on a project, you can contact me through Twitter.
+I'm a Technical Lead who loves to work with Node.js. In particular, I'm interested in web applications security and MongoDB, so many of my GitHub contributions are in this area.
 
 ### Highlights
 
